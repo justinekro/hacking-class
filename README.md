@@ -1,24 +1,7 @@
-# README
+# Petite question
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pour cet exo j'ai repris exactement la même structure que l'exo 1. Si vous avez fait autrement je suis preneuse.
 
-Things you may want to cover:
+J'avais pensé à un has_one mais je n'ai pas trop compris la différence avec belongs_to
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Merci :)

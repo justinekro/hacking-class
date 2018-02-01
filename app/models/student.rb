@@ -1,4 +1,4 @@
 class Student < ApplicationRecord
-  has_one :course
-  validates :name, presence: true
+  belongs_to :course
+	validates :name, presence: true
 end
